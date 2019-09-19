@@ -1,6 +1,6 @@
 # Search: From the Ground Up
 
-_Talk given at [DjangoCon US 2019](h_Talk given at [DjangoConUS 2018](https://2018.djangocon.us/talk/finally-understand-authentication-in/)_)_
+_Talk given at [DjangoCon US 2019](https://2018.djangocon.us/talk/finally-understand-authentication-in/)_
 
 [Slides available here](https://tinyurl.com/djangocon2019-search)
 
